@@ -1,0 +1,1 @@
+for list of event listeners visit--https://developer.mozilla.org/en-US/docs/Web/Events
