@@ -1,0 +1,31 @@
+.author{
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(../images/header2.jpg);
+}
+.authorimg{
+    margin-top: 2%;
+    padding: 2%;
+    position: relative;
+    margin-right: 20px;
+}
+button{
+    background-color: grey ;
+}
+
+.p1{
+    font-weight: 500;
+    font-size: 20px;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
+p{
+    font-size: 19px;
+}
+h1,h2{
+    text-decoration: underline;
+}
+ul{
+    font-size: 18px;
+}
